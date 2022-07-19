@@ -22,12 +22,18 @@ body{
     }
 
     max-width: 600px;
-    max-height: 1200px;
     
     margin: auto;
 
     background-image: linear-gradient(rgb(132, 135, 196), rgb(113, 116, 175), rgb(127, 130, 186), rgb(161, 161, 190));
     /*background-color: rgb(127, 130, 186);*/
+
+    .noCargoPresupuesto{
+
+        color: hsla(0, 0%, 8%, 0.788);
+        padding: 1rem;
+    }
+
 }
 
 body::before, body::after {
