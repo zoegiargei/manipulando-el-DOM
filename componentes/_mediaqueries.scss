@@ -1,0 +1,23 @@
+@media only screen and(min-width: 992px){
+
+    .containerGastos{
+        max-width: 900px;
+        max-height: 1200px;
+
+        font-size: 15px;
+        h1,h2{
+            font-size: 40px;
+        }
+    }
+
+    .containerMostrarGastos{
+        width: 100xp;
+        max-height: 150px;
+
+        .mostrarGastos{
+            p{
+                font-size: 10px;
+            }
+        }
+    }
+}
