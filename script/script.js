@@ -143,4 +143,3 @@ btnMostrarPresupuesto.addEventListener(`click`, () => {
         divMostrarPresupuesto.appendChild(nuevoPresupuesto)
     }
 })
-

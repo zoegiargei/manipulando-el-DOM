@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "sass estilos.scss ./css/estilos.css -w --no-source-map -s compressed"
+    "start": "sass estilos.scss ./css/estilos.css -w --no-source-map -s compressed",
+    "build": "[my-framework] build --output public"
   },
   "author": "GIARGEI",
   "license": "ISC",
