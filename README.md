@@ -8,7 +8,6 @@ Ejersicio de aplicación de manipulación del DOM
 
 1. Tecnologías usadas.
 2. Vista previa del proyecto.
-3. Información sobre el autor.
 
 ***
 
@@ -29,9 +28,7 @@ Lista de las tecnologías usadas en el proyecto:
 ### 2. VISTA PREVIA DEL PROYECTO
 
 ![Vista Previa del Proyecto](https://user-images.githubusercontent.com/48769662/179861238-4e4c507a-5ba0-467f-b0e1-061c4522bc21.png)
+![Vista Previa del Proyecto](https://user-images.githubusercontent.com/48769662/179868841-a8a6e367-1bd5-4340-b0e7-19605aeb1cb5.png)
+
 
 ***
-
-### 3. INFORMACIÓN SOBRE EL AUTOR
-
-**Mi nombre es Zoe Giargei, tengo 21 años, actualmente estoy estudiando una carrera de programación. Tengo conocimiento en Python, Java, HTML5 y CSS3 y proximamente en JavaScript. Estudié 2 años la carrera de Ingeniería en Sistemas en la UTN, por lo tanto, por lo visto en esos años tengo facilidad para aprender lógica de programación . Mi objetivo es dedicarme a la programación,y la bioquímica como quien dice por amor al arte... ¡Espero que mi proyecto demuestre mi dedicación y ganas de aprender en este rubro!**
